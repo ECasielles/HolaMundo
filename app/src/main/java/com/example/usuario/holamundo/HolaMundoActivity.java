@@ -11,6 +11,9 @@ import android.widget.TextView;
  * @version 1.0
  * @see android.app.Activity
  *
+ * Muestra un mensaje en modo de diseño que luego es sustituido en
+ * tiempo de ejecución.
+ *
  */
 public class HolaMundoActivity extends AppCompatActivity {
 
